@@ -1,5 +1,5 @@
-# Camino Frontend
+# Path: Frontend
 
-### Available languages
+## Available languages
 
 - [🇪🇸 - Disponible también en español!](./docs/es/README.es.md)
