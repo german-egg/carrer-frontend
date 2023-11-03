@@ -1,4 +1,4 @@
-# HTML+CSS: Creación de una tienda virtual estática
+# HTML+CSS
 
 ### Objetivo del Curso:
 

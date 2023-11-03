@@ -4,14 +4,14 @@ Este camino educativo lleva a los estudiantes a través del desarrollo web Front
 
 ## Nivel 1
 
-### [1. Programación web desde cero](./courses/pwdc/docs/es/README.es.md)
+### [1. Programación web desde cero](../../courses/pwdc/docs/es/README.es.md)
 
 - **Descripción breve:** Introducción al mundo del desarrollo web y sus principales tecnologías.
 - **Descripción completa:** Este curso está diseñado para iniciarte en el desarrollo web, cubriendo los conceptos fundamentales de la web, el funcionamiento de los sitios web, y una introducción a las tecnologías que los hacen posibles. A lo largo del curso, construirás una base sólida en HTML, CSS, y las nociones básicas de programación.
 - **Habilidades obtenidas:** Estructura HTML, estilos CSS, fundamentos de la programación.
 - **Cantidad de pasos:**
 
-### [2. Git](./courses/GIT.es.md)
+### [2. Git](../../courses/git/docs/es/README.es.md)
 
 - **Descripción breve:** Manejo de Git para el control de versiones y colaboración.
 - **Descripción completa:** Este curso ofrece una comprensión práctica de cómo usar Git para el control de versiones y la gestión de código en proyectos colaborativos. Desde comandos básicos hasta flujos de trabajo avanzados, los estudiantes aprenderán a manejar repositorios y contribuir a proyectos de manera eficiente.
@@ -20,21 +20,21 @@ Este camino educativo lleva a los estudiantes a través del desarrollo web Front
 
 ### Nivel 2
 
-### [3. HTML+CSS](./courses/html+css/docs/es/README.es.md)
+### [3. HTML+CSS](../../courses/html+css/docs/es/README.es.md)
 
 - **Descripción breve:** Construcción de una tienda online estática con HTML y CSS.
 - **Descripción completa:** En este curso, los alumnos aplicarán y expandirán su conocimiento en HTML y CSS para construir una tienda virtual estática. El énfasis está en el diseño responsive, las mejores prácticas de codificación y la implementación de un diseño atractivo y funcional.
 - **Habilidades obtenidas:** Diseño responsive, buenas prácticas de HTML y CSS, diseño web.
 - **Cantidad de pasos:**
 
-### [4. Javascript 1](./courses/JAVASCRIPT-1.es.md)
+### [4. Javascript 1](../../courses/javascript-1/docs/es/README.es.md)
 
 - **Descripción breve:** Introducción al [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) para añadir interactividad a nuestra tienda virtual.
 - **Descripción completa:** Este curso lleva a los estudiantes a través de los conceptos básicos de [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), con un enfoque en la manipulación del DOM y la captura de eventos. Los estudiantes aprenderán a dar vida a la tienda virtual estática con scripts que añaden interactividad y mejoran la experiencia del usuario.
 - **Habilidades obtenidas:** Manipulación del DOM, eventos, programación básica en Javascript.
 - **Cantidad de pasos:**
 
-### [5. React 1](/courses/REACT-1.es.md)
+### [5. React 1](../../courses/react-1/docs/es/README.es.md)
 
 - **Descripción breve:** Migración a [React](https://react.dev/) para mejorar la tienda virtual.
 - **Descripción completa:** Los estudiantes profundizarán en React, una de las bibliotecas más populares para la construcción de interfaces de usuario. Se enfocarán en la componetización, el estado y el ciclo de vida de los componentes para migrar y mejorar la tienda virtual.
