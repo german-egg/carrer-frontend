@@ -30,7 +30,7 @@ Los estudiantes deben haber completado el curso de HTML+CSS y deben tener:
 
 ### Pasos de Cursado:
 
-- ⚡ **Recuperación de Proyecto**: Clonar el sitio de HTML+CSS desde GitHub para integrar Javascript.
+- 🏠 **Recuperación de Proyecto**: Clonar el sitio de HTML+CSS desde GitHub para integrar Javascript.
 - ⚡ **Carrito de Compras Layout**: Diseñar la página de carrito conforme al prototipo establecido.
 - ⚡ **Poblado de Contenido del Carrito**: Añadir contenido y aplicar estilos al carrito siguiendo el prototipo.
 - 🏠 **Introducción a EventListener**: Estudio de la implementación y uso de `EventListener` en Javascript.
