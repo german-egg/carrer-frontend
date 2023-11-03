@@ -40,7 +40,7 @@ Es crucial que estos requisitos se cumplan antes de comenzar el curso para aprov
 
 ## Pasos de cursado:
 
-- 🏠 **Ambiente de Trabajo y Herramientas**: Configuración del entorno de desarrollo, incluyendo editor, y preparación del espacio de trabajo. Realización de un 'fork' del repositorio proporcionado que contiene assets y plantillas iniciales.
+- 🏠 **[Ambiente de Trabajo y Herramientas](./workspace_and_tools.es.md)**: Configuración del entorno de desarrollo, incluyendo editor, y preparación del espacio de trabajo. Realización de un 'fork' del repositorio proporcionado que contiene assets y plantillas iniciales.
 - ⚡ **Maquetado Básico de la Página**: Introducción al layout de la página principal, utilizando placeholders y bordes de color para comprender la estructura del contenido.
 - ⚡ **Card de Producto, Fundamentos de Flexbox**: Creación de la estructura básica de una tarjeta de producto aplicando propiedades de Flexbox para su alineación y disposición.
 - 🏠 **Card de Producto, Incorporación de Imágenes**: Adición de elementos gráficos a la tarjeta de producto para mejorar la apariencia visual y practicar la inserción de imágenes en HTML.
