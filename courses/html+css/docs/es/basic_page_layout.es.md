@@ -82,6 +82,20 @@ Terminemos de aplicar las propiedades necesarias a nuestro layout.
 </style>
 ```
 
+Una propiedad CSS es un tipo de instrucción que se utiliza para definir cómo debe verse o comportarse un elemento HTML. Se coloca dentro de un bloque de código CSS, que está encerrado entre llaves { } y se asocia con un selector. Cada propiedad css tiene un nombre y un valor separados por “:”. Cada propiedad css finaliza con “;”
+
+* width: 790px;
+Establece el ancho del elemento en 790 píxeles.
+* background-color: linear-gradient(180deg, #E4BFE8 0%, #93FCAA 100%);
+Crea un fondo degradado que comienza con el color #E4BFE8 y termina con el color #93FCAA, yendo de arriba a abajo (180 grados).
+text-align: center;
+Centra horizontalmente el texto dentro del elemento.
+padding: 41px 175px;
+Añade un relleno alrededor del contenido del elemento, con 41 píxeles en la parte superior e inferior y 175 píxeles en los lados izquierdo y derecho.
+border-radius: 15px;
+Redondea las esquinas del elemento con un radio de 15 píxeles.
+
+📌 Los valores del tipo #E4BFE8 son un código de color en formato hexadecimal utilizado en CSS para especificar un color particular. En este sistema, los colores se representan con seis dígitos hexadecimales pero CSS también nos permite declarar algunos colores comunes con sus nombres en inglés como “red”, “black”, “white” etc.
 
 
 
